@@ -1,5 +1,4 @@
 #### Olá, seja bem vindo 😃
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayribeirofernandes&label=Profile%20views&color=0e75b6&style=flat" alt="FeBlanco" /> </p>
 <h1 align="center">
 Eu sou Felipe Blanco, um Quality Assurance Automation em formação 🐺
 </h1>
