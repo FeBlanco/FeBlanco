@@ -11,9 +11,9 @@ Eu sou Felipe Blanco, um Quality Assurance Automation em formação 🐺
 <div align="center">
   <a href="https://github.com/FeBlanco">
   <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeBlanco&layout=compact&langs_count=7&theme=gotham"/>
-     <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="180" />
- ##
+  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="180" />
 </div>
+ 
   <div style="display: inline_block"><br>
   <img align="center"  height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -30,6 +30,6 @@ Eu sou Felipe Blanco, um Quality Assurance Automation em formação 🐺
   
   
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/FeBlanco/FeBlanco/blob/output/github-contribution-grid-snake.svg)
  
 </div>
