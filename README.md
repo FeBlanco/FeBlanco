@@ -11,6 +11,7 @@ Eu sou Felipe Blanco, um Quality Assurance Automation em formação 🐺
   <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeBlanco&layout=compact&langs_count=7&theme=gotham"/>
   <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="180" />
 </div>
+  <div align="center">
   <div style="display: inline_block"><br>
   <img align="center"  height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png">
   <img align="center"  height="100" width="100" src="https://raw.githubusercontent.com/cypress-io/cypress-icons/e61b554695b28267a1387a839f816c73e7a7e95e/src/logo/cypress-io-logo.svg">
@@ -20,7 +21,7 @@ Eu sou Felipe Blanco, um Quality Assurance Automation em formação 🐺
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
    <img align="center"  height="30" width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-   <img align="center"  height="110" width="110" src="https://insomnia.rest/images/insomnia-logo.svg">
+   <img align="center"  height="30" width="30" src="https://cdn.svgporn.com/logos/insomnia.svg">
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 <div> 
