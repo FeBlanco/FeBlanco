@@ -13,7 +13,7 @@ Eu sou Felipe Blanco, um Quality Assurance Automation em formação 🐺
 </div>
   <div align="center">
   <div style="display: inline_block"><br>
-  <img align="center"  height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png">
+  <img align="center"  height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png">
   <img align="center"  height="100" width="100" src="https://raw.githubusercontent.com/cypress-io/cypress-icons/e61b554695b28267a1387a839f816c73e7a7e95e/src/logo/cypress-io-logo.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
