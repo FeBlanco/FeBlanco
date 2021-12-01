@@ -3,10 +3,8 @@
 Eu sou Felipe Blanco, um Quality Assurance Automation em formação 🐺
 </h1>
 
-
 -  🤖 Atualmente estou aprendendo robot framework
 -  ⌚ Futuramente estarei aprendendo cypress
-
 
 <div align="center">
   <a href="https://github.com/FeBlanco">
