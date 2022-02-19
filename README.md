@@ -9,7 +9,7 @@ Eu sou Felipe Blanco, um Quality Assurance Automation em formação 🐺
 <div align="center">
   <a href="https://github.com/FeBlanco">
   <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeBlanco&layout=compact&langs_count=7&theme=gotham"/>
-  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="180" />
+  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="181" />
 </div>
   <div align="center">
   <div style="display: inline_block"><br>
