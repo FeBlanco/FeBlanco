@@ -16,8 +16,8 @@ Eu sou Felipe Blanco, QA Automation
 
 <div align="center">
   <a href="https://github.com/FeBlanco">
-  <img width="500" height="180em" src="https://github-readme-stats.vercel.app/api?username=Feblanco&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeBlanco&layout=compact&langs_count=7&theme=gotham"/>
+  <img width="300" height="180em" src="https://github-readme-stats.vercel.app/api?username=Feblanco&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img width="200" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeBlanco&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   <div align="center">
   <div style="display: inline_block"><br>
