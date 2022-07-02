@@ -10,7 +10,7 @@ Eu sou Felipe Blanco, QA Automation
 |  Técnicas de testes caixa preta  | Cypress  |   VSCode - IntelliJ |  JavaScript |
 | Partição de equivalência  |Robot Framework   | Postman - Insomnia   | Python (básico)  |
 |  Analise de valores limites  | Selenium WebDriver  | Cucumber | Java (básico) |
-| Tabela de decisão   | JUnit 5  |  Jenkins - GitHub Actions |   |
+| Tabela de decisão   | JUnit  |  Jenkins - GitHub Actions |   |
 |  Testes Exploratório |  |   |   |
 |  Heurísticas de testes  |  |  |   |
 
