@@ -1,8 +1,8 @@
 #### Olá, seja bem vindo 😃<p align="left"> <img src="https://komarev.com/ghpvc/?username=FeBlanco&label=Profile%20views&color=0e75b6&style=flat" alt="FeBlanco" /> </p>
-<h2 align="center">
+<h1 align="center">
 Eu sou Felipe Blanco, QA Automation
-</h2>
- <h3 align="center"> Estudando as melhores tecnologias para testes manuais e automatizado </h3>
+</h1>
+ <h3 align="center"> Estudando as melhores tecnologias para testes manuais e automatizados </h3>
 
 
 |Técnicas de testes   | Frameworks de automação de testes  |   Ferramentas| Linguagem de programação  |
