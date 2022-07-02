@@ -33,6 +33,7 @@ Eu sou Felipe Blanco, QA Automation
    <img align="center"  height="30" width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
    <img align="center"  height="30" width="30" src="https://cdn.svgporn.com/logos/insomnia.svg">
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+   <img align="center"  height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
 </div>
 <div> 
   <a href = "https://gitlab.com/FeBlanco"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
