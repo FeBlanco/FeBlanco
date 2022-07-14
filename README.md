@@ -16,9 +16,10 @@ Eu sou Felipe Blanco, QA Automation
 
 <div align="center">
   <a href="https://github.com/FeBlanco">
-  <img width="410" height="180em" src="https://github-readme-stats.vercel.app/api?username=Feblanco&show_icons=true&theme=gotham&include_all_commits=true&count_public=true"/>
-  <img width="300" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeBlanco&layout=compact&langs_count=7&theme=gotham"/>
+  <img width="410" height="180em" src="https://github-readme-stats.vercel.app/api?username=FeBlanco&theme=gotham&show_icons=true)"/>
+  <img width="345" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeBlanco&layout=compact&langs_count=6&theme=gotham"/>
 </div>
+
   <div align="center">
   <div style="display: inline_block"><br>
   <img align="center"  height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png">
