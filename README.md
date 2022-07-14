@@ -1,4 +1,4 @@
-#### Olá, seja bem vindo 😃<p align="left"> <img src="https://komarev.com/ghpvc/?username=FeBlanco&label=Profile%20views&color=0e75b6&style=flat" alt="FeBlanco" /> </p>
+#### Olá, seja bem vindo 😃<p align="left"> <img src="https://komarev.com/ghpvc/?username=FeBlanco&label=Profile%20views&color=brightgreen&style=flat" alt="FeBlanco" /> </p>
 <h1 align="center">
 Eu sou Felipe Blanco, QA Automation
 </h1>
@@ -16,7 +16,7 @@ Eu sou Felipe Blanco, QA Automation
 
 <div align="center">
   <a href="https://github.com/FeBlanco">
-  <img width="410" height="180em" src="https://github-readme-stats.vercel.app/api?username=Feblanco&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img width="410" height="180em" src="https://github-readme-stats.vercel.app/api?username=Feblanco&show_icons=true&theme=gotham&include_all_commits=true&count_public=true"/>
   <img width="300" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeBlanco&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   <div align="center">
