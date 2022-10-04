@@ -8,11 +8,11 @@ Eu sou Felipe Blanco, QA Automation
 |Técnicas de testes   | Frameworks de automação de testes  |   Ferramentas| Linguagem de programação  |
 | ------------ | ------------ | ------------ | ------------ |
 |  Técnicas de testes caixa preta  | Cypress  |   VSCode - IntelliJ |  JavaScript |
-| Partição de equivalência  |Robot Framework   | Postman - Insomnia   | Python (básico)  |
-|  Analise de valores limites  | Selenium WebDriver  | Cucumber | Java (básico) |
-| Tabela de decisão   | JUnit  |  Jenkins - GitHub Actions |   |
-|  Testes Exploratório |  |   |   |
-|  Heurísticas de testes  |  |  |   |
+| Partição de equivalência  | Selenium WebDriver | Postman - Insomnia   | Java (básico)  |
+|  Analise de valores limites  | Robot Framework  | Cucumber | Python (básico) |
+| Testes Exploratório  |   |  Jenkins - GitHub Actions |   |
+|  |  |  Tesults |   |
+
 
 <div align="center">
   <a href="https://github.com/FeBlanco">
