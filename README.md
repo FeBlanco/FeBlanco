@@ -1,25 +1,20 @@
-#### Olá, seja bem vindo 😃<p align="left"> <img src="https://komarev.com/ghpvc/?username=FeBlanco&label=Profile%20views&color=brightgreen&style=flat" alt="FeBlanco" /> </p>
-<h1 align="center">
-Eu sou Felipe Blanco, QA Automation
-</h1>
- <h3 align="center"> Estudando as melhores tecnologias para testes manuais e automatizados </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=FeBlanco&label=Profile%20views&color=brightgreen&style=flat" alt="FeBlanco" /> </p>
+
+Bem-vindo(a) ao meu github, sou o **Felipe Blanco** um profissional em transição de carreira para **QA** que está estudando tecnologias *JavaScript* e *Node.js* no momento para me tornar um QA mais completo e atualizado. Meu objetivo é me tornar um QA altamente qualificado, capaz de testar e garantir a qualidade de software usando ferramentas e tecnologias modernas. Estes projetos demonstram minha experiência em testes manuais, bem como minha progressão em testes automatizados. Sinta-se à vontade para olhar os projetos e entrar em contato comigo se tiver alguma dúvida ou se quiser discutir oportunidades de colaboração. Obrigado por visitar meu github!
 
 
-|Técnicas de testes   | Frameworks de automação de testes  |   Ferramentas| Linguagem de programação  |
-| ------------ | ------------ | ------------ | ------------ |
-|  Técnicas de testes caixa preta  | Cypress  |   VSCode - IntelliJ |  JavaScript |
-| Partição de equivalência  | Selenium WebDriver | Postman - Insomnia   | Java (básico)  |
-|  Analise de valores limites  | Robot Framework  | Cucumber | Python (básico) |
-| Testes Exploratório  |   |  Jenkins - GitHub Actions |   |
-|  |  |  Tesults |   |
-
-
+| Técnicas de testes   | Automação de testes  |   Ferramentas | Linguagem de programação  |  CI/CD |
+| ------------ | ------------ | ------------ | ------------ | ------------ |
+|  Técnicas de testes caixa preta/branca  | Cypress  |  Postman |  JavaScript |   Jenkins |
+| Partição de equivalência  | Selenium WebDriver | Insomnia   | Node.js  |  GitHub Actions
+|  Analise de valor limite  | CodeceptJS | Cucumber | Java (básico) |
+| Testes Exploratório  |  Jest | Docker  |   |
+<br>
 <div align="center">
   <a href="https://github.com/FeBlanco">
   <img width="410" height="180em" src="https://github-readme-stats.vercel.app/api?username=FeBlanco&theme=gotham&show_icons=true)"/>
-  <img width="345" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeBlanco&layout=compact&langs_count=6&theme=gotham"/>
+  <img width="410" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeBlanco&layout=compact&langs_count=6&theme=gotham"/>
 </div>
-
   <div align="center">
   <div style="display: inline_block"><br>
   <img align="center"  height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png">
