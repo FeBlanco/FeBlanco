@@ -6,9 +6,9 @@ Bem-vindo(a) ao meu github, sou o **Felipe Blanco** um profissional em transiç�
 | Técnicas de testes   | Automação de testes  |   Ferramentas | Linguagem de programação  |  CI/CD |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
 |  Técnicas de testes caixa preta/branca  | Cypress  |  Postman |  JavaScript |   Jenkins |
-| Partição de equivalência  | Selenium WebDriver | Insomnia   | Node.js  |  GitHub Actions
-|  Analise de valor limite  | CodeceptJS | Cucumber | Java (básico) |
-| Testes Exploratório  |  Jest | Docker  |   |
+| Partição de equivalência  | Selenium WebDriver | Insomnia   | Java (básico)  |  GitHub Actions
+|  Analise de valor limite  |  | Cucumber |  |
+| Testes Exploratório  |  | Docker  |   |
 <br>
 <div align="center">
   <a href="https://github.com/FeBlanco">
