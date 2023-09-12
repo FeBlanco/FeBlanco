@@ -7,7 +7,7 @@
 | Categorias | Ferramentas/Frameworks | 
 |--|--|
 |Linguagem de programação| JavaScript (Node.js), TypeScript |
-|Banco de dados| SQL (PostgreSQL), MongoDB |
+|Banco de dados| SQL (PostgreSQL) |
 |Automação de testes web | Cypress, Playwright, CodeceptJS |
 |Gerenciadores de Pacotes | npm, yarn |
 |Testes unitários| Jest |
