@@ -13,13 +13,13 @@
 |Testes unitários| Jest |
 |Testes de API| Postman, Insomnia |
 |Testes mobile | Appium + CodeceptJs |
-|Testes não funcionais | K6, Jmeter	|
-|Ferramentas de monitoramento de tarefas | Jira, Azure Devops|
+|Testes não funcionais | Jmeter	|
+|Ferramentas de monitoramento de tarefas | Jira|
 |Metodologias de desenvolvimento ágil | Scrum, Kanban |
 |Gerenciamento de testes | Qase |
 |Plataforma de relatórios de testes | Tesults, Allure |
 |CI/CD| Jenkins, GitHub Actions |
-|Ferramentas de infraestrutura| Docker, Azure Devops |
+|Ferramentas de infraestrutura| Docker|
 |Outras tecnologias|HTML, CSS, Sass, Bootstrap, React |
 
 
